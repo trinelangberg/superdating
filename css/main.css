@@ -1,0 +1,53 @@
+body {
+	background-color: darkblue;
+}
+
+header {
+	margin: 20px;
+}
+
+h1, h2 {
+	color: lightyellow;
+	font-family: 'Bangers', cursive;
+	letter-spacing: 4px;
+}
+
+
+
+h3, p, a {
+	color: lightyellow;
+	font-family: "helvetica";
+}
+
+
+ textarea {
+    display: block;
+    width: 300px;
+    padding: 5px;
+    font-size: 1em;
+    margin-bottom: 1em;
+    box-sizing: border-box;
+}
+
+
+.profile {
+
+	padding: 30px;
+	margin: 20px;
+	width: 30%;
+	border: 1px solid #eee;
+}
+
+
+article {
+    max-width: 300px;
+    padding: 10px;
+    display: inline-grid;
+    background-color: blue;
+    border-radius: 7px;
+}
+
+img {
+	width: 50%;
+    margin: 0 10px 10px 0;
+}
